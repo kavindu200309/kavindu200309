@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Umayanga</h1>
 <h3 align="center">Tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu200309&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu200309" /> </p>
-<img src="https://img.shields.io/github/followers/kavindu200309?label=Followers&style=social" alt="GitHub followers count">
+<p align="center"><img src="https://img.shields.io/github/followers/kavindu200309?label=Followers&style=social" alt="GitHub followers count"></p>
 
 
 - <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman Logo" width="15">
