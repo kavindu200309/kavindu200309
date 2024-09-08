@@ -25,6 +25,5 @@
 
 <h3 align="left">My Stats</h3><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kavindu200309&show_icons=true&locale=en" alt="kavindu200309" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu200309&" alt="kavindu200309" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kavindu200309&show_icons=true&locale=en" alt="kavindu200309" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu200309&" alt="kavindu200309" /></p>
