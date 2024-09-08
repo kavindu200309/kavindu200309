@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://img.shields.io/github/followers/kavindu200309?label=Followers&style=social" alt="GitHub followers count"></p><br>
 
-
+<h3 align="left">About Me </h3><hr style="width: 10%; height: 0.5px;">
 
 - <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman Logo" width="15">
      Postman Student Expert
@@ -14,11 +14,11 @@
 
 - 🚀 Turning ideas into code, and code into innovation
 
-<h3 align="left">Languages and Tools:</h3><hr style="width: 10%; height: 0.5px;">
+<h3 align="left">Languages and Tools 🛠️</h3><hr style="width: 10%; height: 0.5px;">
 
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p><br>
 
-<h3 align="left">Connect with me:</h3><hr style="width: 50%; height: 0.5px;">
+<h3 align="left">Connect with me 🔗</h3><hr style="width: 50%; height: 0.5px;">
 <h3></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kavindu-umayanga-93239b319/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" alt="https://www.linkedin.com/in/kavindu-umayanga-93239b319/" height="40" width="40" /></a>
