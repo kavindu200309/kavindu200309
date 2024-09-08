@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kavindu Umayanga</h1>
-<h3 align="center">Tech enthusiast | Postman Student Expert</h3>
+<h3 align="center">Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu200309&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu200309" /> </p>
+
+- <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman Logo" width="150">
+  Postman Student Expert
 
 - 🌱 I’m currently learning **Java Script, Python**
 
 - 📫 How to reach me **kavinumayanga@gmail.com**
+
+- 🚀 Turning ideas into code, and code into innovation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
