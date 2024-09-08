@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3><br>
 <h3></h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kavindu-umayanga-93239b319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavindu-umayanga-93239b319/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kavindu-umayanga-93239b319/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw0fvNgMzPcX75qmxi3rAbsE&ust=1725905880306000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjnnMf6s4gDFQAAAAAdAAAAABAE" alt="https://www.linkedin.com/in/kavindu-umayanga-93239b319/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kavindu.umayangana.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kavindu.umayangana.79" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kavinduumayanga_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kavinduumayanga_/" height="30" width="40" /></a>
 </p>
